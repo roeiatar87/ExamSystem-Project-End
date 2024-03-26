@@ -1,0 +1,15 @@
+﻿זמן = לזמן הנוכחי או זמן קטן מזמן ועוד זמן משך המבחן
+
+זמן פתיחה זמין לביצוע
+time = datetime.now 
+time < datetime.now + total hours + total mintus
+
+
+ברגע שהזמן עבר מעדכן את ה 
+participations
+
+
+
+
+
+
